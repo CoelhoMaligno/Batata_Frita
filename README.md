@@ -1,2 +1,2 @@
-# Batata_Frita
+# Oregano
 jogo treinamento da area de 2d do SENAI
